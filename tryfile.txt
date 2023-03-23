@@ -1,0 +1,5 @@
+Name: haras asfs  Age: 123  Salary: 12432.234
+Name: dsdvg  sdfsd  Age: 32  Salary: 1242432.2423
+System.out.println(line);
+System.out.println("===============");
+line = reader.readLine();
